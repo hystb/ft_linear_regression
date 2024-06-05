@@ -1,3 +1,6 @@
+Linear Regression Model
+This repository contains a simple implementation of a linear regression model using Python. The model trains on a given dataset to predict the target values based on the input features. The implementation includes gradient descent for optimization and visualization of the training process.
+
 Prerequisites
 Ensure you have the following libraries installed before running the code:
 
